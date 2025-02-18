@@ -1,3 +1,6 @@
+// Please check the Medium article for a detailed approach and step-by-step debugging: 
+// https://medium.com/@techiecontent/day-1-google-interview-prep-text-justification-cd29021cdfcf
+
 import java.util.ArrayList;
 import java.util.List;
 
