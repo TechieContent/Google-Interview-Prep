@@ -1,3 +1,6 @@
+// Please check the Medium article for a detailed approach and step-by-step debugging: 
+// https://medium.com/@techiecontent/day-2-google-interview-preparation-employee-importance-leetcode-690-985e0f91a3d0
+
 import java.util.*;
 
 class Employee {
