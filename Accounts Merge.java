@@ -1,4 +1,7 @@
-
+//Please check the Medium article for a detailed approach and step-by-step debugging: 
+//https://medium.com/@techiecontent/day-4-google-interview-preparation-accounts-merge-leetcode-721-9194d05230b1
+//Before solving this problem, it’s essential to understand Disjoint Set Union (DSU). 
+//You can read more about DSU in my article: https://medium.com/@techiecontent/disjoint-set-union-dsu-a-detailed-explanation-222056d97968
 
 import java.util.*;
 class Main {
