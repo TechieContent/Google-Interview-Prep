@@ -1,4 +1,5 @@
-
+// Please check the Medium article for a detailed intuition, approach and step-by-step debugging for both the approaches: 
+//https://medium.com/@techiecontent/day-5-google-interview-preparation-finding-similar-videos-with-hashmap-and-dsu-0f3a164550fc
 
 //Approach 1: HashMap-Based Solution
 import java.util.*;
