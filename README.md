@@ -22,5 +22,9 @@ I'm solving Google's previous interview questions daily and sharing solutions he
 I’m documenting my journey on Medium, where I explain each problem in detail.  
 📌 Read the articles here: https://medium.com/@techiecontent
 
+If you enjoyed seeing my solutions or would like to support my work, feel free to buy me a coffee here :
+https://buymeacoffee.com/techiecontent     
+Any contribution, big or small, is entirely up to you and greatly appreciated. Thankyou for reading!
+
 🚀 Let's Crack Google Together!  
 If you're also preparing for Google interviews, let's connect and support each other. Contributions, discussions, and feedback are welcome!
