@@ -1,4 +1,5 @@
 //Please check the Medium article for a detailed approach and step-by-step debugging: 
+//https://medium.com/@techiecontent/day-7-google-interview-preparation-minimum-contiguous-swaps-to-transform-lists-5a6c7fbbb0aa
 
 import java.util.*;
 
