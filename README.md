@@ -7,7 +7,7 @@ I'm solving Google's previous interview questions daily and sharing solutions he
 
 🔥 What You'll Find Here:
 * Daily coding problems from Google interviews
-* Optimized solutions in Python (and possibly other languages)
+* Optimized solutions in Java
 * Step-by-step explanations with comments
 * Links to my Medium articles for detailed discussions
 
