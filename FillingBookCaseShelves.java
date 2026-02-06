@@ -1,3 +1,6 @@
+// Please check the Medium article for a detailed approach and step-by-step debugging: 
+// https://medium.com/@techiecontent/day-8-google-interview-preparation-filling-bookcase-shelves-leetcode-1105-777e685d57f2
+
 import java.util.Arrays;
 
 public class FillingBookcaseShelvesAllApproaches {
