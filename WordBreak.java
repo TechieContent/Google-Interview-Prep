@@ -1,3 +1,6 @@
+// Please check the Medium article for a detailed approach and step-by-step debugging: 
+// https://medium.com/@techiecontent/day-9-google-interview-preparation-word-break-leetcode-139-f1ae98da18c5
+
 import java.util.*;
 
 public class WordBreakAllApproaches {
