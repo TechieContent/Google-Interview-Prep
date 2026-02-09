@@ -1,3 +1,6 @@
+// Please check the Medium article for a detailed approach and step-by-step debugging: 
+// https://medium.com/@techiecontent/day-10-google-interview-preparation-bag-of-tokens-leetcode-948-50cc444a1a69
+
 import java.util.Arrays;
 
 public class BagOfTokens {
